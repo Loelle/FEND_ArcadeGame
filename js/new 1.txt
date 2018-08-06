@@ -1,0 +1,12 @@
+positions
+map total: x=505 y=606
+y= ligne
+ligne1: 400
+ligne2: 320
+ligne3: 230
+ligne4: 140
+ligne5: 50
+ligne6:
+
+    this.x = 200;
+    this.y = 400;

@@ -51,9 +51,9 @@ var Player = function() {
 
 Player.prototype.update = function() {
     // If player reaches water
-    if (player.y < 72) {
+    if (this.y < 72) {
         this.score += 10;
-        player.reset();
+        this.reset();
     }
 };
 
